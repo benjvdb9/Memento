@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    clipboard (1.1.2)
+    ffi (1.9.25-x64-mingw32)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  clipboard
+  ffi
+
+BUNDLED WITH
+   1.16.6
